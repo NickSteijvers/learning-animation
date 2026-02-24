@@ -1249,3 +1249,162 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-12.49.53:204][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.694859
 [2026.02.24-12.49.53:207][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
 [2026.02.24-12.49.53:207][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.694859, Update Interval: 359.218109
+[2026.02.24-12.50.48:592][611]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.24-12.50.48:603][611]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.24-12.50.48:613][611]LogSlate: Took 0.008707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.24-12.50.48:654][613]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.24-12.50.49:828][684]LogDerivedDataCache: C:/Users/nicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.24-12.50.51:528][786]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.02.24-12.50.51:529][786]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.24-12.50.55:116][981]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.02.24-12.50.55:126][981]LogContentBrowser: Creating deferred item: NewWorld
+[2026.02.24-12.50.55:184][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.02.24-12.51.07:638][723]LogContentBrowser: Attempting asset rename: NewWorld -> Level1
+[2026.02.24-12.51.07:648][723]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.24-12.51.07:655][723]LogContentBrowser: End creating deferred item NewWorld
+[2026.02.24-12.51.09:046][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.24-12.51.13:186][791]LogSlate: Window 'Save Content' being destroyed
+[2026.02.24-12.51.13:212][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-12.51.13:301][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.24-12.51.13:325][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.24-12.51.13:342][791]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2026.02.24-12.51.13:342][791]LogSavePackage: Moving 'C:/learningAnimation/learning-animation/learningAnimation/Saved/Level13A47D34948E7FCA9E1C34A9A0291D354.tmp' to 'C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap'
+[2026.02.24-12.51.13:351][791]LogFileHelpers: Saving map 'Level1' took 0.051
+[2026.02.24-12.51.13:457][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.009 ms
+[2026.02.24-12.51.13:458][791]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2026.02.24-12.51.13:459][791]Cmd: MAP LOAD FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.24-12.51.13:486][791]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-12.51.13:486][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-12.51.13:486][791]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.02.24-12.51.13:513][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-12.51.13:533][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.24-12.51.13:539][791]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-12.51.13:539][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-12.51.13:560][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.24-12.51.13:579][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.24-12.51.13:581][791]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.51.13:582][791]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2026.02.24-12.51.13:582][791]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.24-12.51.13:626][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.24-12.51.13:652][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.24-12.51.13:658][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.24-12.51.13:658][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2026.02.24-12.51.13:766][791]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-12.51.13:766][791]LogContentValidation: Enabled validators:
+[2026.02.24-12.51.13:766][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-12.51.13:766][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-12.51.13:766][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-12.51.13:766][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-12.51.13:767][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-12.51.13:767][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-12.51.13:767][791]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.02.24-12.51.13:801][791]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/learningAnimation/learning-animation/learningAnimation/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.24-12.51.13:895][793]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-12.51.33:527][942]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2026.02.24-12.51.33:527][942]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2026.02.24-12.51.33:533][942]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Levels/Level1.Level1:PersistentLevel.CameraActor_0
+[2026.02.24-12.51.33:534][942]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Levels/Level1.Level1:PersistentLevel.CameraActor_0
+[2026.02.24-12.51.33:704][942]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.51.48:941][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.02.24-12.51.48:941][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.02.24-12.51.48:953][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2026.02.24-12.51.48:953][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2026.02.24-12.52.08:942][932]Cmd: DELETE
+[2026.02.24-12.52.08:943][932]Cmd: ACTOR DELETE
+[2026.02.24-12.52.08:954][932]LogEditorActor: Deleted Actor: DirectionalLight
+[2026.02.24-12.52.08:977][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.24-12.52.08:979][932]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.02.24-12.53.01:377][ 26]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.24-12.53.01:391][ 26]LogSlate: Took 0.012580 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.24-12.53.06:159][309]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2026.02.24-12.53.06:159][309]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2026.02.24-12.53.11:743][628]Cmd: DELETE
+[2026.02.24-12.53.11:743][628]Cmd: ACTOR DELETE
+[2026.02.24-12.53.11:745][628]LogEditorActor: Deleted Actor: RectLight
+[2026.02.24-12.53.11:767][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.24-12.53.11:768][628]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-12.54.33:706][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.24-12.54.35:729][844]LogSlate: Window 'Save Content' being destroyed
+[2026.02.24-12.54.35:742][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-12.54.35:820][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.24-12.54.35:847][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.24-12.54.35:863][844]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2026.02.24-12.54.35:864][844]LogSavePackage: Moving 'C:/learningAnimation/learning-animation/learningAnimation/Saved/Level1DE75D47F46113F3393F4CA9621A82EBF.tmp' to 'C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap'
+[2026.02.24-12.54.35:871][844]LogFileHelpers: Saving map 'Level1' took 0.061
+[2026.02.24-12.54.35:957][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.147 ms (total: 459.157 ms)
+[2026.02.24-12.54.35:957][844]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2026.02.24-12.54.35:957][844]Cmd: MAP LOAD FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.24-12.54.35:967][844]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-12.54.35:967][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-12.54.35:988][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-12.54.35:992][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.24-12.54.35:993][844]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.54.35:994][844]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2026.02.24-12.54.35:994][844]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.24-12.54.36:032][844]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.24-12.54.36:052][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.24-12.54.36:056][844]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.24-12.54.36:056][844]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,059ms to complete.
+[2026.02.24-12.54.36:150][844]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-12.54.36:150][844]LogContentValidation: Enabled validators:
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-12.54.36:150][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-12.54.36:150][844]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.02.24-12.54.36:186][845]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-12.55.01:407][330]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.24-12.55.01:407][330]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.24-12.55.01:952][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.24-12.55.01:954][361]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.24-12.55.01:959][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.24-12.55.01:959][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.24-12.55.04:138][488]Cmd: DELETE
+[2026.02.24-12.55.04:138][488]Cmd: ACTOR DELETE
+[2026.02.24-12.55.04:139][488]LogEditorActor: Deleted Actor: PointLight
+[2026.02.24-12.55.04:157][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.24-12.55.04:159][488]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.24-12.55.52:567][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 369.401306
+[2026.02.24-12.55.53:568][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-12.55.53:568][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 370.079712, Update Interval: 357.022614
+[2026.02.24-12.57.08:566][ 42]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.24-12.57.10:708][151]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.02.24-12.57.10:708][151]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.02.24-12.57.10:720][151]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Level1.Level1:PersistentLevel.SkyAtmosphere_0
+[2026.02.24-12.57.10:721][151]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Level1.Level1:PersistentLevel.SkyAtmosphere_0
+[2026.02.24-12.57.24:260][918]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2026.02.24-12.57.24:260][918]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2026.02.24-12.57.24:273][918]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Levels/Level1.Level1:PersistentLevel.VolumetricCloud_0
+[2026.02.24-12.57.24:273][918]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Levels/Level1.Level1:PersistentLevel.VolumetricCloud_0
+[2026.02.24-12.57.59:776][755]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.02.24-12.57.59:776][755]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.02.24-12.57.59:788][755]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2026.02.24-12.57.59:789][755]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2026.02.24-12.58.25:560][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2026.02.24-12.58.25:560][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2026.02.24-12.58.25:562][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Levels/Level1.Level1:PersistentLevel.ExponentialHeightFog_0
+[2026.02.24-12.58.25:562][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Levels/Level1.Level1:PersistentLevel.ExponentialHeightFog_0
+[2026.02.24-12.58.59:760][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.24-12.59.01:156][240]LogSlate: Window 'Save Content' being destroyed
+[2026.02.24-12.59.01:181][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-12.59.01:261][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.24-12.59.01:295][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.24-12.59.01:317][240]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2026.02.24-12.59.01:318][240]LogSavePackage: Moving 'C:/learningAnimation/learning-animation/learningAnimation/Saved/Level122674F76495289E22EAFC184588946F8.tmp' to 'C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap'
+[2026.02.24-12.59.01:334][240]LogFileHelpers: Saving map 'Level1' took 0.075
+[2026.02.24-12.59.01:363][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.350 ms (total: 642.508 ms)
+[2026.02.24-12.59.01:452][240]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-12.59.01:452][240]LogContentValidation: Enabled validators:
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-12.59.01:452][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-12.59.01:453][240]AssetCheck: /Game/Levels/Level1 Validating asset
