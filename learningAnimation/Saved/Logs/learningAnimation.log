@@ -1400,3 +1400,178 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-14.03.01:818][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3134.574707
 [2026.03.05-14.03.02:818][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.05-14.03.02:819][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3135.241455, Update Interval: 343.609741
+[2026.03.05-14.09.19:605][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3512.358398
+[2026.03.05-14.09.19:788][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-14.09.19:788][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3512.524902, Update Interval: 343.860596
+[2026.03.05-14.10.37:593][418]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-14.10.37:798][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:803][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:804][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:812][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:846][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:859][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:863][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:865][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.37:920][418]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.03.05-14.10.38:018][419]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2026.03.05-14.10.38:018][419]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2026.03.05-14.10.38:020][419]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/Levels/Level1.Level1:PersistentLevel.SkeletalMeshActor_0
+[2026.03.05-14.10.38:039][419]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2026.03.05-14.10.38:213][419]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2026.03.05-14.10.38:586][419]LogSkeletalMesh: Built Skeletal Mesh [0.38s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2026.03.05-14.10.38:613][419]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/Levels/Level1.Level1:PersistentLevel.SkeletalMeshActor_0
+[2026.03.05-14.10.38:624][419]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.05-14.10.38:822][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.05-14.10.38:825][420]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.03.05-14.10.38:837][420]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2026.03.05-14.10.38:837][420]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2026.03.05-14.10.38:839][420]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/Levels/Level1.Level1:PersistentLevel.SkeletalMeshActor_1
+[2026.03.05-14.10.38:844][420]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/Levels/Level1.Level1:PersistentLevel.SkeletalMeshActor_1
+[2026.03.05-14.10.45:667][697]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.05-14.10.45:710][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: ================================================
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: Total job queries 471, among them cache hits 33 (7.01%), DDC hits 335 (71.13%), Duplicates 76 (16.14%)
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: Tracking 362 distinct input hashes that result in 251 distinct outputs (69.34%)
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: RAM used: 3,38 MiB of 819,20 MiB budget. Usage: 0.41%
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: Shaders Compiled: 27
+[2026.03.05-14.10.54:866][219]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Average time worker was idle: 837.72 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Time job spent in pending queue: average 1.79 s, longest 4.28 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 4.84 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Job life time (pending + execution): average 4.10 s, max 6.62
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Shader code size: total 214,535 KiB, numShaders 31, average 6,92 KiB, min 1,727 KiB, max 13,699 KiB
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.71 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Total thread time: 34,151 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Total thread preprocess time: 9,735 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Percentage time preprocessing: 28.50%
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Effective parallelization: 3.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.439459
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.32 sec, max 2.34 sec, min 2.30 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.80 sec, max 1.85 sec, min 1.75 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.55 sec, max 1.63 sec, min 1.48 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.46 sec, min 0.98 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 1.11 sec, max 1.13 sec, min 1.09 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.14% of total time (compiled    4 times, average 1.21 sec, max 1.46 sec, min 0.98 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.58% of total time (compiled    2 times, average 2.32 sec, max 2.34 sec, min 2.30 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.57% of total time (compiled    4 times, average 0.90 sec, max 1.07 sec, min 0.75 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.54% of total time (compiled    2 times, average 1.80 sec, max 1.85 sec, min 1.75 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display:                                                  FVelocityPS - 9.08% of total time (compiled    2 times, average 1.55 sec, max 1.63 sec, min 1.48 sec)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Materials Translated:    141
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: Material Cache Hits: 20 (14%)
+[2026.03.05-14.10.54:878][219]LogShaderCompilers: Display: ================================================
+[2026.03.05-14.11.29:811][259]Cmd: TRANSACTION UNDO
+[2026.03.05-14.11.29:812][259]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-14.11.31:599][349]Cmd: TRANSACTION UNDO
+[2026.03.05-14.11.31:599][349]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-14.11.38:297][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-14.11.38:361][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-14.11.38:400][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.05-14.11.38:416][742]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2026.03.05-14.11.38:416][742]LogSavePackage: Moving 'C:/learningAnimation/learning-animation/learningAnimation/Saved/Level1B603AB8C40B2313B5296D0849CB85D4F.tmp' to 'C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap'
+[2026.03.05-14.11.38:426][742]LogFileHelpers: Saving map 'Level1' took 0.065
+[2026.03.05-14.11.38:440][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.907 ms (total: 660.034 ms)
+[2026.03.05-14.11.38:507][742]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-14.11.38:507][742]LogContentValidation: Enabled validators:
+[2026.03.05-14.11.38:507][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-14.11.38:508][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-14.11.38:508][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-14.11.38:508][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-14.11.38:508][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-14.11.38:508][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-14.11.38:508][742]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.03.05-14.12.39:663][396]LogDerivedDataCache: C:/Users/nicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-14.13.41:294][ 76]Cmd: TRANSACTION UNDO
+[2026.03.05-14.13.41:295][ 76]LogEditorTransaction: Undo Move Elements
+[2026.03.05-14.15.44:304][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.05-14.15.44:309][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-14.15.44:419][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/overview/NewLevelSequence] ([1] browsable assets)...
+[2026.03.05-14.15.44:419][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/overview/NewLevelSequence]
+[2026.03.05-14.15.44:419][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/overview/NewLevelSequence" FILE="C:/learningAnimation/learning-animation/learningAnimation/Content/overview/NewLevelSequence.uasset" SILENT=true
+[2026.03.05-14.15.44:432][387]LogSavePackage: Moving output files for package: /Game/overview/NewLevelSequence
+[2026.03.05-14.15.44:433][387]LogSavePackage: Moving 'C:/learningAnimation/learning-animation/learningAnimation/Saved/NewLevelSequenceC332DE8447225A8DC8709D9639F8D9FD.tmp' to 'C:/learningAnimation/learning-animation/learningAnimation/Content/overview/NewLevelSequence.uasset'
+[2026.03.05-14.15.44:448][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.277 ms (total: 799.312 ms)
+[2026.03.05-14.15.44:515][387]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-14.15.44:515][387]LogContentValidation: Enabled validators:
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-14.15.44:515][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-14.15.44:516][387]AssetCheck: /Game/overview/NewLevelSequence Validating asset
+[2026.03.05-14.15.47:031][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-14.15.47:070][533]LogStall: Shutdown...
+[2026.03.05-14.15.47:070][533]LogStall: Shutdown complete.
+[2026.03.05-14.15.47:194][533]LogSlate: Window 'Anim Layers' being destroyed
+[2026.03.05-14.15.47:254][533]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.03.05-14.15.47:256][533]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.03.05-14.15.47:315][533]LogSlate: Window 'Fab' being destroyed
+[2026.03.05-14.15.47:320][533]LogSlate: Window 'learningAnimation - Unreal Editor' being destroyed
+[2026.03.05-14.15.47:721][533]Cmd: QUIT_EDITOR
+[2026.03.05-14.15.47:721][533]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.05-14.15.47:735][534]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.05-14.15.47:739][534]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.05-14.15.47:739][534]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.05-14.15.47:747][534]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-14.15.47:759][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-14.15.47:798][534]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.05-14.15.47:800][534]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.05-14.15.47:810][534]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.05-14.15.47:823][534]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-14.15.47:823][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-14.15.47:824][534]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-14.15.47:824][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-14.15.47:825][534]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-14.15.47:825][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-14.15.47:826][534]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-14.15.47:826][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-14.15.47:833][534]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.05-14.15.47:834][534]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.05-14.15.47:852][534]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.05-14.15.47:865][534]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.05-14.15.47:865][534]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.05-14.15.47:865][534]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2026.03.05-14.15.47:866][534]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.05-14.15.47:871][534]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.05-14.15.47:879][534]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.05-14.15.47:898][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.05-14.15.47:899][534]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.05-14.15.47:907][534]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.05-14.15.47:911][534]LogExit: Preparing to exit.
+[2026.03.05-14.15.48:033][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.05-14.15.49:396][534]LogEditorDataStorage: Deinitializing
+[2026.03.05-14.15.49:626][534]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.05-14.15.49:743][534]LogExit: Editor shut down
+[2026.03.05-14.15.49:761][534]LogExit: Transaction tracking system shut down
+[2026.03.05-14.15.50:306][534]LogExit: Object subsystem successfully closed.
+[2026.03.05-14.15.50:322][534]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.05-14.15.50:672][534]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/98ff449d-79db-4f54-9303-75486c4fb9d9.
+[2026.03.05-14.15.50:821][534]LogMemoryProfiler: Shutdown
+[2026.03.05-14.15.50:822][534]LogNetworkingProfiler: Shutdown
+[2026.03.05-14.15.50:822][534]LoadingProfiler: Shutdown
+[2026.03.05-14.15.50:823][534]LogTimingProfiler: Shutdown
+[2026.03.05-14.15.50:830][534]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.05-14.15.50:830][534]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.05-14.15.52:019][534]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.05-14.15.52:054][534]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.05-14.15.52:054][534]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA57A3818-4F60-647F-DB50-7587B7C0FAD5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7b7c0fa84a236f53886fe6920e74bacd%7C24d473cac3e54433ae7033dba884d6ee%7C1666a8cb-0bea-47dc-97bf-f6aff07088f3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.05-14.15.52:641][534]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.05-14.15.52:641][534]RenderDocPlugin: plugin has been unloaded.
+[2026.03.05-14.15.52:641][534]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.05-14.15.52:662][534]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.05-14.15.52:662][534]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.05-14.15.52:663][534]LogPakFile: Destroying PakPlatformFile
+[2026.03.05-14.15.53:949][534]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.05-14.15.53:991][534]LogExit: Exiting.
+[2026.03.05-14.15.54:041][534]Log file closed, 03/05/26 15:15:54
