@@ -6,7 +6,29 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/learningAnimation/learning-animation/learningAnimation/Content/Levels/Level1.umap",
-				"C:/learningAnimation/learning-animation/learningAnimation/Content/overview/NewLevelSequence.uasset"
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/overview/NewLevelSequence.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/Fab/UEFN_Mannequin/skm_uefn_mannequin.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/Fab/UEFN_Mannequin/M_UEFN_Mannequin.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/Fab/UEFN_Mannequin/skm_uefn_mannequin_PhysicsAsset.uasset",
+				"C:/learningAnimation/learning-animation/learningAnimation/Content/Fab/UEFN_Mannequin/skm_uefn_mannequin_Skeleton.uasset"
 			]
 		}
 	]
